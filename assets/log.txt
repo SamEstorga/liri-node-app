@@ -1,0 +1,128 @@
+SONG------------------------
+0
+Song name: Exhale
+Preview song: null
+Album: Singular Act II
+Artist(s): Sabrina Carpenter
+SONG------------------------
+1
+Song name: Inhale Exhale (feat. Protoje)
+Preview song: https://p.scdn.co/mp3-preview/cdc2e217447f83913136cd40a3538d6923b3ecc5?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Falling into Place
+Artist(s): Rebelution
+SONG------------------------
+2
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/ae0dc6f4932893d6fa0db4440640340668bc8d99?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: I Couldn't Be Weaker
+Artist(s): Rarity
+SONG------------------------
+3
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/864e6bfdb54374bd6de21c5cf8ff716c5e2ef34e?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Exhale
+Artist(s): EBEN
+SONG------------------------
+4
+Song name: Lifeline
+Preview song: https://p.scdn.co/mp3-preview/f9b1aef1bee150f22785ad82d793a95e460e4539?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Exhale
+Artist(s): Thousand Foot Krutch
+SONG------------------------
+5
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/c78d42f4b0263dc2cbdebb6a080632a6d2a5504c?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: stardustexhalemarrakechdreams
+Artist(s): ZHU
+SONG------------------------
+6
+Song name: Exhale - Shoop Shoop
+Preview song: https://p.scdn.co/mp3-preview/7de595f37d4d4629cc85b9a6d30b7fcf9db97765?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Whitney The Greatest Hits
+Artist(s): Whitney Houston
+SONG------------------------
+7
+Song name: Time Stands Still
+Preview song: https://p.scdn.co/mp3-preview/2ca52ff8d90afc33136f154d5ab3f5c61120630a?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Inhale/Exhale/Disappear
+Artist(s): .anxious.
+SONG------------------------
+8
+Song name: Running With Giants
+Preview song: https://p.scdn.co/mp3-preview/e7870b5f9fd6c5ff992558ac554cac09373d9e2f?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Exhale
+Artist(s): Thousand Foot Krutch
+SONG------------------------
+9
+Song name: Sittin' Up In My Room
+Preview song: https://p.scdn.co/mp3-preview/1611d8f860f0886308f3c2156f117697bafa9fcb?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Waiting To Exhale
+Artist(s): Brandy
+SONG------------------------
+10
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/d562f2a084af1dfac36a87a550200194d3113f30?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Exhale
+Artist(s): Jay Hardway
+SONG------------------------
+11
+Song name: Inhale Exhale
+Preview song: https://p.scdn.co/mp3-preview/64d24fa597181ba3e1fbed6d5cea9006bc8a1b3c?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: For All We Know
+Artist(s): Nao
+SONG------------------------
+12
+Song name: Here 4 Ya
+Preview song: https://p.scdn.co/mp3-preview/a66a47164b09463a8c8202c5525149fc14c7cde9?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Waiting to Exhale
+Artist(s): Paper Lovee
+SONG------------------------
+13
+Song name: Push
+Preview song: https://p.scdn.co/mp3-preview/c339f5e6b52c06a70d6d50b610adb9e38f9c40d0?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Exhale
+Artist(s): Thousand Foot Krutch
+SONG------------------------
+14
+Song name: Not Gon' Cry
+Preview song: https://p.scdn.co/mp3-preview/882610d38e6e4df6275661b2dd0c8a1ae8fa0e26?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Waiting To Exhale
+Artist(s): Mary J. Blige
+SONG------------------------
+15
+Song name: Exhale (feat. Smino)
+Preview song: null
+Album: Exhale
+Artist(s): Kemba
+SONG------------------------
+16
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/d92d4f0dd058a524c8fdb303cf3dd4c9c0dba624?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Forgive Me for My Honesty
+Artist(s): Ivan B
+SONG------------------------
+17
+Song name: Count On Me
+Preview song: https://p.scdn.co/mp3-preview/07f59caac1db3061502179dd9fadef26fcd50146?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Waiting To Exhale
+Artist(s): Whitney Houston
+SONG------------------------
+18
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/e0760c1767bd5f4de001232cdadd0a62f5b7605d?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Evolution
+Artist(s): Alexis Ffrench
+SONG------------------------
+19
+Song name: Exhale
+Preview song: https://p.scdn.co/mp3-preview/2b269cccce00ca38ead334e64663b030c2c8d0f4?cid=90e3fe61e9834cd8898734eb357f9ae0
+Album: Exhale
+Artist(s): Plumb
+Movie--------------------------------------
+Title: The StarWars Adventures
+Release Year: 2016–
+IMDB Rating: N/A
+Movie--------------------------------------
+Title: The StarWars Adventures
+Release Year: 2016–
+IMDB Rating: N/A
