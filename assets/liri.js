@@ -157,7 +157,7 @@ const doWhatItSays = function () {
             return console.log(err);
         }
         let dataArr = data.split(',');
-        UserInputs(dataArr[0], dataArr[1]);
+        searchInputs(dataArr[0], dataArr[1]);
     });
 }
 
